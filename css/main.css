@@ -29,6 +29,6 @@ a {
     color: #BD93F9
 }
 
-li {
+li::marker {
     color: #F8F8F2
 }
